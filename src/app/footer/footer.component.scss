@@ -1,0 +1,84 @@
+.loc{
+	font-family: 'graphik';
+    color: #7ca2f0;
+    font-size: 16px;
+    padding-top: 10px;
+    font-weight: 900;
+}
+footer .pdl50 ul>li>a, footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+footer p, footer .pdl50 ul {
+    font-family: 'graphik';
+    padding-top: 20px;
+    line-height: 1.8;
+    margin-bottom: 0px;
+}
+
+.pdl50 ul {
+    list-style: none;
+}
+
+.subscribe input {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    border: none;
+    border-bottom: 3px solid #7ca2f0;
+    background: transparent;
+}
+
+.subscribe button {
+    float: right;
+    margin-right: 25px;
+    background: #7ca2f0;
+    color: #fff;
+    border: none;
+    font-family: 'graphik';
+    padding: 10px 15px;
+}
+.toll {
+    color: #ff6d6a;
+    font-weight: 900;
+}
+
+footer .pdl50 ul>li>a, footer a {
+    color: #000;
+    text-decoration: none;
+}
+footer .sicons>li>a {
+    color: #566b91;
+    text-decoration: none;
+}
+footer .sicons {
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    margin-bottom: 0;
+    letter-spacing: 40px;
+    font-size: 18px;
+    float: right;
+}
+input, select {
+    margin: 0;
+    vertical-align: middle;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+.subscribe input {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    border: none;
+    border-bottom: 3px solid #7ca2f0;
+    background: transparent;
+}
